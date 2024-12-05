@@ -12,6 +12,8 @@
 ![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 <br/>
 </span>
+<br/>
+![...](https://komarev.com/ghpvc/?username=hoangrab&color=blue)
 
 <!--
 **hoangrab/hoangrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
